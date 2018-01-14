@@ -16,4 +16,4 @@ function removeFromPlaylist(playlist, artist){
 
 }
 
-  return playlist;
+
