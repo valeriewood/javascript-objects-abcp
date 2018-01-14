@@ -16,5 +16,4 @@ function removeFromPlaylist(playlist, artist){
   return playlist;
 }
 
-updatePlaylist(playlist,"Wu-Tang","Killer Bees");
-removeFromPlaylist(playlist,'')
+
