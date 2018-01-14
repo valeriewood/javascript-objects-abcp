@@ -12,7 +12,7 @@ function updatePlaylist(playlist, artist, song){
 
 
 function removeFromPlaylist(playlist, artist){
- delete playlist['Phil Ochs'] = song;
+ delete playlist['Phil Ochs'];
 
 }
 
